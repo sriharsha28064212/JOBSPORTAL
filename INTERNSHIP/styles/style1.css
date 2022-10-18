@@ -1,0 +1,15 @@
+.text-heading {
+  text-align: center;
+}
+.cards {
+  display: flex;
+}
+.card {
+  margin: 50px;
+  float: left;
+}
+
+.text-heading {
+  margin-left: 75px;
+  color: white;
+}

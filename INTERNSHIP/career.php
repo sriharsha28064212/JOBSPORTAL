@@ -101,13 +101,12 @@ if ($result->num_rows > 0) {
                                     type="text" class="form-control" id="recipient-name" name="qualification">
                             </div>
                             <div class="mb-3">
-                                <label for="recipient-name" class="col-form-label">Year
-                                    Passout</label>
-                                < input type="text" class="form-control" id="recipient-name" name="year">
+                                <label for="recipient-name" class="col-form-label">Year Passout</label>
+                                <input type="text" class="form-control" id="recipient-name" name="year">
                             </div>
                             <div class="mb-3">
-                                <label for="recipient-name" class="col-form-label">Resume</label><input type="file"
-                                    class="form-control" id="recipient-name" name="file">
+                                <label for="recipient-name" class="col-form-label">Resume</label>
+                                <input type="file" class="form-control" id="recipient-name" name="file">
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary"

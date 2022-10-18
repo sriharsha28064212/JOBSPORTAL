@@ -20,7 +20,7 @@
         margin-left: 30em;
         margin-right: 10em;
         padding: 30px;
-        box-shadow: 10px 10px 8px 10px #888888;
+        border-radius: 10px;
     }
     </style>
 </head>

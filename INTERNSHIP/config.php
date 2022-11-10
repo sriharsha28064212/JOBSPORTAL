@@ -1,6 +1,6 @@
 <?php
 session_start();
-$server = 'localhost:3311';
+$server = 'localhost:3316';
 $username = 'root';
 $password = '';
 $database = 'jobs';
